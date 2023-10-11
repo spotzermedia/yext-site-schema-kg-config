@@ -1,0 +1,14 @@
+{
+  "$id": "c_nearbySectionAPIKey",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Nearby Section API Key",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

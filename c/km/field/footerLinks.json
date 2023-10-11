@@ -1,0 +1,8 @@
+{
+  "$id": "c_footerLinks",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Footer Links",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "c_cTA"
+}
